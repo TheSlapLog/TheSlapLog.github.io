@@ -28,6 +28,21 @@ h3.headerTwo {
     margin: 2em;
 }
 
+h4.h4One {
+    float: right;
+    margin: 6em;
+    margin-top: 20em;
+}
+
+h4.h4Two {
+    margin: 6em;
+    margin-top: 30em;
+    color: #ff8738;
+}
+a.aOne {
+    color: #ff8738;
+}
+
 #date {
     color: #9c3636;
 }
